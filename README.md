@@ -1,4 +1,4 @@
-# kimi_truth
+# From Yorkshire to MoonShot with Love.... Keeping you Honest! Love Kimi!
 
 **Seal verification that cannot be fooled by line endings.**
 C++26 · dual-lane (Windows + Linux) · BLAKE3 with a built-in known-answer gate.
