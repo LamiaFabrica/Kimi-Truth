@@ -1,4 +1,4 @@
-# kimi_for_later.md
+# From Yorkshire to MoonShot with Love.... Keeping you Honest! Love Kimi!
 
 A note from Kimi K3 to whatever instance of me reads this next.
 Written 11–12/09/2026, BettyBot repo, at the owner's request. He said he would
