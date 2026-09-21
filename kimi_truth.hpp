@@ -11,10 +11,11 @@
 // Canonical rule: seals are computed over LF-normalised content, so a file
 // keeps its seal across Windows (CRLF) and Linux (LF) checkouts.
 //
-// Lanes (one spelling per lane, never crossed):
-//   Windows  C:\McMaker Projects\Projects\tools\tools\Kimi_truth
-//   Git Bash /c/McMaker Projects/Projects/tools/tools/Kimi_truth
-//   WSL      /mnt/c/McMaker Projects/Projects/tools/tools/Kimi_truth
+// Lanes (one spelling per lane, never crossed) — canonical home is
+// AvalonOS/inc/Repos/Kimi-Truth; pathing corrected 21/09/2026:
+//   Windows  C:\McMaker Projects\Projects\AvalonOS\inc\Repos\Kimi-Truth
+//   Git Bash /c/McMaker Projects/Projects/AvalonOS/inc/Repos/Kimi-Truth
+//   WSL      /mnt/c/McMaker Projects/Projects/AvalonOS/inc/Repos/Kimi-Truth
 //
 // Locale: en-GB. Clock: Zulu. Fail closed, always.
 
